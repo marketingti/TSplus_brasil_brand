@@ -1,0 +1,94 @@
+{
+  "brand": "TSplus Brasil",
+  "colors": {
+    "dark_background": "#242424",
+    "dark_background_gradient_to": "#000000",
+    "orange_primary": "#ff9106",
+    "white": "#ffffff",
+    "light_background": "#ffffff",
+    "light_background_alt": "#7a7a7a",
+    "text_on_light": "#242424"
+  },
+  "typography": {
+    "font_family": "Red Hat Display",
+    "headline": {
+      "weight": ["ExtraBold", "Black"],
+      "leading": "0.9-1.1 (apertado)"
+    },
+    "body": {
+      "weight": ["Regular", "Medium", "SemiBold"]
+    },
+    "micro_label": {
+      "weight": "Medium",
+      "case": "uppercase",
+      "tracking": "+150 a +200"
+    }
+  },
+  "themes": {
+    "dark": {
+      "use_for": ["Advanced Security", "Server Monitoring", "Remote Access"],
+      "message": "robustez, cibersegurança, modernização de sistemas legados",
+      "background": "#242424 com gradiente para preto nas bordas",
+      "glow": "Laranja #ff9106, difuso e volumétrico, nunca duro/geométrico",
+      "text_color": "#ffffff",
+      "photo_treatment": "grayscale, opacidade 10-15% como textura"
+    },
+    "light": {
+      "use_for": ["Remote Support", "Software Houses", "mobilidade"],
+      "message": "facilidade de uso, interface intuitiva, redução de custo e atrito",
+      "background": "branco ou cinza claro extremamente lavado (#7a7a7a suave)",
+      "orange_usage": "sólido em ícones/botões/micro-labels, nunca como fundo",
+      "text_color": "#242424",
+      "shadow": "drop shadow suave e amplo, sensação de SaaS moderno"
+    }
+  },
+  "grid": {
+    "feed_portrait_1080x1350": "55% texto (esquerda) / 45% visual (direita)",
+    "feed_square_1080x1080": "mesma divisão 55/45, elemento 3D pode invadir fundo em baixa opacidade",
+    "stories_1080x1920": {
+      "top_20pct": "logo, micro-label, respiro",
+      "center_40pct": "headline + subheadline",
+      "base_40pct": "elemento visual 3D + CTA"
+    },
+    "linkedin_banner_1200x628": "50% texto / 50% interface translúcida com glow laranja"
+  },
+  "logo": {
+    "position_horizontal_square": "canto superior direito",
+    "position_stories": "centro superior",
+    "color_on_dark": "monocromático branco OU símbolo laranja + tipografia branca",
+    "color_on_light": "símbolo laranja + tipografia cinza escuro #242424",
+    "safety_margin": "não alterar margens/zona de segurança do template"
+  },
+  "cta": {
+    "tone": "sempre consultivo, nunca apelativo",
+    "examples": ["Teste grátis por 15 dias", "Fale com um consultor", "Agende uma consultoria gratuita"],
+    "forbidden": ["Compre agora", "linguagem de promoção/desconto agressivo"]
+  },
+  "footer": {
+    "url": "tsplusbrasil.com.br",
+    "font": "Red Hat Display Regular, tamanho pequeno"
+  },
+  "blacklist": [
+    "hacker cartunizado com capuz",
+    "monitor CRT / tubo",
+    "selos de desconto ou Black Friday",
+    "laranja como fundo sólido chapado",
+    "puzzle pieces ou avatares 3D genéricos"
+  ],
+  "canva_search_dictionary": {
+    "dark_backgrounds": ["dark grey tech grid", "cyber security abstract dark background", "subtle dotted world map dark", "dark premium background"],
+    "light_backgrounds": ["clean white IT workspace", "minimalist light grey background", "glass UI light theme"],
+    "corporate_photos": ["IT manager looking at screens black and white", "help desk professional minimalist", "modern software development team"],
+    "3d_objects": ["3d glass shield orange", "floating tech dashboard", "orange glowing network node", "cyber security lock 3d", "abstract orange data connection"],
+    "cards_ui": ["dark glassmorphism UI", "white neumorphism panel", "admin tech dashboard UI", "translucent blur card"],
+    "light_shadow": ["orange volumetric light", "warm neon flare", "soft drop shadow"]
+  },
+  "presentation_rules": {
+    "standardized_slides": ["Capa", "Nossa Missão", "Perto de Você"],
+    "own_identity_slides": ["Cenário de mercado", "Comparativo/Como funciona", "O que muda para o negócio", "Gestão no dia a dia"],
+    "no_versao_instalacao_slide": true,
+    "80_pct_economia_restricted_to": "Nossa Missão apenas",
+    "avoid_repeating_composition_across_presentations": true,
+    "leave_image_placeholders_dont_generate_photos": true
+  }
+}
