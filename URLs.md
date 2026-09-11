@@ -14,6 +14,8 @@
 | Server Monitoring | [https://tsplusbrasil.com.br/institucionais/server-monitoring](https://tsplusbrasil.com.br/institucionais/server-monitoring) | Página |
 | Two Factor Authentication | [https://tsplusbrasil.com.br/institucionais/two-factor-authentication](https://tsplusbrasil.com.br/institucionais/two-factor-authentication) | Página |
 | Programa de Parceria | [https://tsplusbrasil.com.br/institucionais/programa-de-parceria](https://tsplusbrasil.com.br/institucionais/programa-de-parceria) | Página |
+| Blog | [https://blog.tsplusbrasil.com.br](https://blog.tsplusbrasil.com.br) | Blog |
+| Fale com especialista (chat externo) | [http://tsplusbrasil.com.br/acessar-chat-externo/bbef6a97-2b22-11ea-ae23-0237aeab3997/f4714d7d-bff0-11f0-8a5d-0050568d17bd](http://tsplusbrasil.com.br/acessar-chat-externo/bbef6a97-2b22-11ea-ae23-0237aeab3997/f4714d7d-bff0-11f0-8a5d-0050568d17bd) | CTA / Chat |
 
 ---
-*Total: 10 páginas mapeadas*
+*Total: 12 páginas mapeadas (10 originais + Blog e Fale com especialista, adicionados em setembro/2026).*
